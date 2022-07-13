@@ -16,8 +16,9 @@ FEATURES
     4. Thymeleaf
     5. Spring Boot DevTools
     
-    DEMO
+DEMO
     
-      ![Capture](https://user-images.githubusercontent.com/80932595/178665977-5ac84f28-f59a-4c4c-a34c-d3e66b3906a0.JPG)
+![Capture](https://user-images.githubusercontent.com/80932595/178666141-237ed9fa-e94c-4cba-895f-78d81cbbf792.JPG)
+
 
  
