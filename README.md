@@ -12,7 +12,7 @@ FEATURES
     3. Update the employee (U)
     4. Delete the employee (D)
     
- DEPDENCIES USED
+ DEPENDENCIES USED
    
     1. Spring Web
     2. MySQL Driver
