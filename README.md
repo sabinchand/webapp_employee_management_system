@@ -1,6 +1,10 @@
 # webapp_employee_management_system
 WEB APP - EMPLOYEE MANAGEMENT SYSTEM
 
+DEMO
+    
+![Capture](https://user-images.githubusercontent.com/80932595/178666141-237ed9fa-e94c-4cba-895f-78d81cbbf792.JPG)
+
 FEATURES
 
     1. Save a employee (C)
@@ -16,9 +20,4 @@ FEATURES
     4. Thymeleaf
     5. Spring Boot DevTools
     
-DEMO
-    
-![Capture](https://user-images.githubusercontent.com/80932595/178666141-237ed9fa-e94c-4cba-895f-78d81cbbf792.JPG)
-
-
  
